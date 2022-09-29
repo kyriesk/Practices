@@ -1,2 +1,2 @@
-# simple-chatty-bot
+# Simple Chatty Bot
 A project of Python Core from JetBrains Academic
