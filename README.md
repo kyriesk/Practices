@@ -1,5 +1,5 @@
-# Python Core from JetBrains
-**A study record of Python Core from JetBrains Academic**
+# practices
+**A study record**
 
 ## Project1: Simple Chatty Bot （Completed on 2022.9.29）
 
